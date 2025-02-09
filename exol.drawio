@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="r442cKApe8Ec8aWfdIED">
-    <mxGraphModel dx="2150" dy="2459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2550" dy="2459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1384,8 +1384,13 @@
           <mxGeometry x="-975.5" y="-1370" width="215" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WUJrZtyszi5ECTgxEgw3-398" value="Now that weâ€™ve finished pushing all the elements to stack B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-1079" y="2541" width="333" height="26" as="geometry" />
+          <mxGeometry x="-1080.25" y="2533" width="333" height="26" as="geometry" />
         </mxCell>
+        <UserObject label="Selboukaoui&amp;nbsp; âœí ¼í¿»" link="https://www.linkedin.com/in/samir-elboukaoui-410000284/" id="WUJrZtyszi5ECTgxEgw3-399">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="-1279" y="2677" width="103" height="26" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
