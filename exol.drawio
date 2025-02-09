@@ -1380,6 +1380,12 @@
         <mxCell id="WUJrZtyszi5ECTgxEgw3-394" value="Stack A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1094.5" y="2186" width="59" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="WUJrZtyszi5ECTgxEgw3-397" value="that what the &#39;big_sort&#39; function do í ¾íµ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;strokeWidth=1;perimeterSpacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-975.5" y="-1370" width="215" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WUJrZtyszi5ECTgxEgw3-398" value="Now that weâ€™ve finished pushing all the elements to stack B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-1079" y="2541" width="333" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
